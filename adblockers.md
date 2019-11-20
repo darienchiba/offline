@@ -1,0 +1,9 @@
+**Must Have** - uBlock Origin (or any adblocker) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Safari](https://github.com/el1t/uBlock-Safari), [Edge](https://www.microsoft.com/en-us/p/ublock-origin/9nblggh444l4), [Opera](https://addons.opera.com/en/extensions/details/ublock/)
+
+**Recommended** - Popup Blocker - Catches popups that uBlock misses. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/popupblockerall/), [Chrome](https://chrome.google.com/webstore/detail/popup-blocker-strict/aefkmifgmaafnojlojpnekbpbmjiiogg?hl=en), [Opera](https://addons.opera.com/en/extensions/details/popup-blocker-ultimate/), [Edge](https://www.microsoft.com/en-us/p/popup-blocker/9ng26z2368n6?activetab=pivot:overviewtab)
+
+**Optional** - Openvideo - (Plays streams in new player, bypassing ads + adding features) [Firefox](https://tinyurl.com/y3lpnpgo), [Chrome](https://chrome.google.com/webstore/detail/openvideo-faststream/dadggmdmhmfkpglkfpkjdmlendbkehoh?hl=en)
+
+**Android** - Block Ads with [**AdGuard** (Premium Unlocked)](http://www.mediafire.com/file/87v4zdmzh9w3lr5/AdGuard%2528Premium%2529Nightly%2528v3.3.141.Build.10000141%2529%2528Mod_By_Balatan%2529.apk/file), [AdAway](https://tinyurl.com/yavxv6zr) or [Blokada](https://blokada.org/). If using sites try [Opera](https://www.opera.com/mobile/operabrowser) as it has a built in adblocker.
+
+**Do You Need a VPN?** - You only need a VPN when torrenting or using applications that use torrents to stream (like popcorntime, stremio ect.) If you plan on avoiding torrents and sticking to streaming websites and apps like leonflix which use streaming sites to stream their content then you do not technically need a VPN. [More VPN Information](https://github.com/Igglybuff/awesome-piracy#vpns)
